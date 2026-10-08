@@ -1,0 +1,38 @@
+codigo,prioridad,nivel,tema,titulo,entidad,url,fecha_publicacion,fecha_descarga,ruta_local,estado
+F01,P1,municipio,planeacion,Plan de Desarrollo vigente y dos anteriores,Alcaldia de Cartagena,,,,,pendiente
+F02,P1,municipio,planeacion,Informes de seguimiento rendicion de cuentas y empalme,Alcaldia de Cartagena,,,,,pendiente
+F03,P1,municipio,ordenamiento,Plan de Ordenamiento Territorial,Alcaldia de Cartagena,,,,,pendiente
+F04,P1,municipio,fiscal,Marco Fiscal de Mediano Plazo presupuestos y ejecuciones,Secretaria de Hacienda,,,,,pendiente
+F05,P1,municipio,fiscal,Estados financieros deuda pasivo pensional contingencias y categoria,Secretaria de Hacienda / CHIP,,,,,pendiente
+F06,P1,municipio,fiscal,Estatuto tributario acuerdos de rentas e informacion catastral,Secretaria de Hacienda / Concejo,,,,,pendiente
+F07,P1,datos,contratacion,SECOP I y II del Distrito 3 a 5 anos,Colombia Compra Eficiente / datos.gov.co,,,,,pendiente
+F08,P1,municipio,control,Informes de organos de control sobre el Distrito,Contraloria / Personeria / Procuraduria,,,,,pendiente
+F09,P1,municipio,institucional,Estructura organica planta y entes descentralizados,Alcaldia de Cartagena,,,,,pendiente
+F10,P1,datos,desempeno,MDM del DNP y series de TerriData,DNP,,,,,pendiente
+F11,P1,datos,socioeconomico,Pobreza GEIH PIB proyecciones y Censo 2018,DANE,,,,,pendiente
+F12,P1,regional,percepcion,Informes y encuestas de Cartagena Como Vamos,Cartagena Como Vamos,,,,,pendiente
+F13,P1,datos,seguridad,Estadistica delictiva por tipo y barrio y PISCC,Policia / Medicina Legal / Distrito,,,,,pendiente
+F14,P1,datos,servicios,Cobertura y calidad de agua alcantarillado y aseo por barrio,Superservicios / Distrito,,,,,pendiente
+F15,P1,municipio,territorio,Localidades UCG y barrios con poblacion,Alcaldia / DANE,,,,,pendiente
+F20,P2,municipio,politico,Composicion del Concejo actas y acuerdos,Concejo de Cartagena,,,,,pendiente
+F21,P2,departamento,planeacion,Plan de Desarrollo de Bolivar,Gobernacion de Bolivar,,,,,pendiente
+F22,P2,departamento,ambiental,Plan de accion Cardique y EPA Cartagena,Cardique / EPA,,,,,pendiente
+F23,P2,nacional,normas,Regimen distrital y ley de competencias,Senado / Funcion Publica,,,,,pendiente
+F24,P2,nacional,normas,Marco normativo territorial,Senado / Funcion Publica,,,,,pendiente
+F25,P2,nacional,planeacion,PND vigente y MFMP de la Nacion,DNP / Hacienda,,,,,pendiente
+F26,P2,nacional,planeacion,CONPES relevantes,DNP,,,,,pendiente
+F27,P2,municipio,servicios,Contratos con operador de agua y ente gestor del transporte masivo,Alcaldia,,,,,pendiente
+F28,P2,municipio,riesgo,Mapa de riesgo e inundacion y plan de gestion del riesgo,Gestion del Riesgo / EPA / Cardique,,,,,pendiente
+F29,P2,municipio,vivienda,Vivienda deficit y bienes fiscales,Alcaldia / DANE,,,,,pendiente
+F30,P2,datos,sectores,Salud y educacion red matricula y Saber 11,Secretarias / ICFES / Minsalud,,,,,pendiente
+F40,P3,referente-barranquilla,planeacion,Planes de desarrollo de Barranquilla desde 2001,Alcaldia de Barranquilla,,,,,pendiente
+F41,P3,referente-barranquilla,fiscal,Historia fiscal de Barranquilla,CHIP / Hacienda / calificadoras,,,,,pendiente
+F42,P3,referente-barranquilla,infraestructura,Arroyos malecon movilidad y equipamientos con costos,Alcaldia de Barranquilla,,,,,pendiente
+F43,P3,referente-barranquilla,logistica,Puerto rio aeropuerto y zonas francas,Cormagdalena / ANI / Supertransporte,,,,,pendiente
+F44,P3,referente-barranquilla,servicios,Operadora de acueducto y situacion de energia,Superservicios,,,,,pendiente
+F45,P3,referente-barranquilla,alianza,Vision de largo plazo y seguimiento,Camara de Comercio / fundaciones,,,,,pendiente
+F46,P3,regional,comparado,Estudios comparados Cartagena y Barranquilla,Banco de la Republica / Fedesarrollo,,,,,pendiente
+F47,P3,referente-barranquilla,criticas,Investigaciones sobre contratacion poder y seguridad,Contraloria / Procuraduria / prensa,,,,,pendiente
+F48,P3,referente-santa-marta,contraste,Santa Marta control negativo (planes fiscal servicios indicadores control),Alcaldia de Santa Marta / CHIP / DANE,,,,,pendiente
+F50,P3,referente-medellin,contraste,Medellin exito por otra ruta (planes fiscal empresas publicas evaluaciones),Alcaldia de Medellin / CHIP / DANE / Medellin Como Vamos,,,,,pendiente
+F49,P3,municipio,politico,Cuenta de alcaldes suspensiones y revocatorias,Registraduria / Procuraduria / Consejo de Estado,,,,,pendiente

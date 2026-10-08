@@ -1,0 +1,10 @@
+# Documentos originales pesados: se describen en fuentes/00-manifiesto.csv
+fuentes/**/*.pdf
+fuentes/**/*.zip
+fuentes/**/*.xls
+fuentes/**/*.xlsx
+fuentes/**/*.csv
+!fuentes/00-manifiesto.csv
+fuentes/texto/
+.DS_Store
+Thumbs.db
