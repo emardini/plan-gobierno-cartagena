@@ -1,18 +1,19 @@
 codigo,prioridad,nivel,tema,titulo,entidad,url,fecha_publicacion,fecha_descarga,ruta_local,estado
+F00,P1,municipio,consolidado,Expediente publico consolidado (primera recopilacion parcial; secundario),Compilacion externa entregada por el autor,,2026-10-08,2026-10-08,fuentes/municipio/F00_expediente-publico-consolidado-2026-10-08.pdf,parcial
 F01,P1,municipio,planeacion,Plan de Desarrollo vigente y dos anteriores,Alcaldia de Cartagena,,,,,pendiente
 F02,P1,municipio,planeacion,Informes de seguimiento rendicion de cuentas y empalme,Alcaldia de Cartagena,,,,,pendiente
 F03,P1,municipio,ordenamiento,Plan de Ordenamiento Territorial,Alcaldia de Cartagena,,,,,pendiente
-F04,P1,municipio,fiscal,Marco Fiscal de Mediano Plazo presupuestos y ejecuciones,Secretaria de Hacienda,,,,,pendiente
-F05,P1,municipio,fiscal,Estados financieros deuda pasivo pensional contingencias y categoria,Secretaria de Hacienda / CHIP,,,,,pendiente
+F04,P1,municipio,fiscal,Marco Fiscal de Mediano Plazo presupuestos y ejecuciones,Secretaria de Hacienda,,,,,parcial
+F05,P1,municipio,fiscal,Estados financieros deuda pasivo pensional contingencias y categoria,Secretaria de Hacienda / CHIP,,,,,parcial
 F06,P1,municipio,fiscal,Estatuto tributario acuerdos de rentas e informacion catastral,Secretaria de Hacienda / Concejo,,,,,pendiente
 F07,P1,datos,contratacion,SECOP I y II del Distrito 3 a 5 anos,Colombia Compra Eficiente / datos.gov.co,,,,,pendiente
-F08,P1,municipio,control,Informes de organos de control sobre el Distrito,Contraloria / Personeria / Procuraduria,,,,,pendiente
+F08,P1,municipio,control,Informes de organos de control sobre el Distrito,Contraloria / Personeria / Procuraduria,,,,,parcial
 F09,P1,municipio,institucional,Estructura organica planta y entes descentralizados,Alcaldia de Cartagena,,,,,pendiente
 F10,P1,datos,desempeno,MDM del DNP y series de TerriData,DNP,,,,,pendiente
-F11,P1,datos,socioeconomico,Pobreza GEIH PIB proyecciones y Censo 2018,DANE,,,,,pendiente
-F12,P1,regional,percepcion,Informes y encuestas de Cartagena Como Vamos,Cartagena Como Vamos,,,,,pendiente
-F13,P1,datos,seguridad,Estadistica delictiva por tipo y barrio y PISCC,Policia / Medicina Legal / Distrito,,,,,pendiente
-F14,P1,datos,servicios,Cobertura y calidad de agua alcantarillado y aseo por barrio,Superservicios / Distrito,,,,,pendiente
+F11,P1,datos,socioeconomico,Pobreza GEIH PIB proyecciones y Censo 2018,DANE,,,,,parcial
+F12,P1,regional,percepcion,Informes y encuestas de Cartagena Como Vamos,Cartagena Como Vamos,,,,,parcial
+F13,P1,datos,seguridad,Estadistica delictiva por tipo y barrio y PISCC,Policia / Medicina Legal / Distrito,,,,,parcial
+F14,P1,datos,servicios,Cobertura y calidad de agua alcantarillado y aseo por barrio,Superservicios / Distrito,,,,,parcial
 F15,P1,municipio,territorio,Localidades UCG y barrios con poblacion,Alcaldia / DANE,,,,,pendiente
 F20,P2,municipio,politico,Composicion del Concejo actas y acuerdos,Concejo de Cartagena,,,,,pendiente
 F21,P2,departamento,planeacion,Plan de Desarrollo de Bolivar,Gobernacion de Bolivar,,,,,pendiente

@@ -4,7 +4,7 @@ Guía para trabajar en este repositorio.
 
 ## Qué es este repositorio
 
-No es una aplicación. Es un plan de gobierno para la Alcaldía de Cartagena de Indias, período 2028 a 2031, escrito en español y versionado como Markdown. El contenido es el producto. El método viene del plan nacional "Estado en el Territorio" (carpeta hermana `C:\Projects\Personal\estado-en-el-territorio`) y del prompt `PROMPT-PLAN-CARTAGENA.md`, que es la instrucción de trabajo y se obedece al pie de la letra.
+No es una aplicación. Es un plan de gobierno para la Alcaldía de Cartagena de Indias, escrito con los datos de hoy y pensado para ejecutarse en el próximo período de gobierno o en alguno de los tres siguientes (sin atarlo a un año del calendario), escrito en español y versionado como Markdown. El contenido es el producto. El método viene del plan nacional "Estado en el Territorio" (carpeta hermana `C:\Projects\Personal\estado-en-el-territorio`) y del prompt `PROMPT-PLAN-CARTAGENA.md`, que es la instrucción de trabajo y se obedece al pie de la letra.
 
 Todo el contenido, los mensajes de commit y los comentarios van en español.
 
@@ -62,3 +62,17 @@ El plan se escribe como lo haría una persona educada y reflexiva de la costa, n
 ## Verificación antes de entregar
 
 Barrido de estilo (rayas, anglicismos, relleno), cifras reconciliadas, normas vigentes con fecha, enlaces internos que resuelvan, ningún compromiso duro sobre fuente blanda, y cada lección tomada de Barranquilla con su evidencia, su costo y su límite.
+
+## Colaboración de personas no técnicas
+
+Este plan es una propuesta cívica abierta, construida con ayuda de voluntarios que no usan git ni Markdown. El trabajo con ellos ocurre en Google Drive (ver `colaboracion/espacio-drive.md`): un formulario para entregar aportes, una hoja de tareas como tablero y carpetas de lectura; WhatsApp es solo para conversar. Quien coordina hace de cuidador del repositorio: recibe los aportes (por el formulario o por el medio que prefiera cada persona), los registra en `aportes/`, los incorpora si corresponde y responde a quien los hizo. Los enlaces de edición y de las carpetas de Drive no se guardan en el repositorio. Las reglas están en `colaboracion/reglas-de-convivencia.md`. Lo esencial:
+
+- Los aportes entran como sugerencias. El núcleo no se reescribe por propuesta de nadie; la ejecución se corrige con evidencia, venga de quien venga.
+- Todo aporte con cifra lleva su fuente, y se verifica antes de entrar al plan.
+- Los datos personales de terceros (conversaciones, contactos, listas de voluntarios) van en `aportes/privado/`, que no se versiona. Nunca se copian al plan.
+- Cada aporte recibe respuesta (incorporado, y dónde, o descartado, y por qué). Quien quiere aparecer en los agradecimientos aparece.
+- Los documentos del plan se escriben en lenguaje que entienda un vecino. Lo que un lector no técnico no entiende se reescribe.
+
+## Publicación
+
+El sitio y los entregables se publican como en el plan nacional (ver `COMO-PUBLICAR.md`): `index.html` con Docsify para el sitio navegable, y `scripts/build-completo.py` para generar `plan-completo.md` y `completo.html` desde `docs/`, en el orden de `_sidebar.md`. Esos dos archivos son generados, se ignoran en git y no se editan a mano. El grupo "Colaboración" del `_sidebar.md` se excluye del consolidado. Un cambio en `main` dispara la publicación; no se hace push ni se activa Pages sin que el autor lo pida.

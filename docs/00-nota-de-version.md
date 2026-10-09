@@ -4,7 +4,7 @@
 
 **Versión 0.1, 8 de octubre de 2026. Borrador estructural.**
 
-Este es el primer armazón del plan de gobierno de Cartagena de Indias para 2028 a 2031. Lo que contiene es método y estructura: la adaptación de los principios del plan nacional, el marco de competencias del Distrito, el esqueleto fiscal, el modelo de nodo para una ciudad, y el programa de estudio de Barranquilla. Lo que no contiene todavía son cifras verificadas, porque la biblioteca de fuentes aún no existe.
+Este es el primer armazón del plan de gobierno de Cartagena de Indias, escrito con los datos de hoy y sin atarlo a un período concreto: podría ejecutarse en el próximo período o en alguno de los tres siguientes. Lo que contiene es método y estructura: la adaptación de los principios del plan nacional, el marco de competencias del Distrito, el esqueleto fiscal, el modelo de nodo para una ciudad, y el programa de estudio de Barranquilla. Lo que no contiene todavía son cifras verificadas, porque la biblioteca de fuentes aún no existe.
 
 ## Cómo leer las marcas
 
@@ -15,7 +15,7 @@ Todo dato que falta se escribe `[PENDIENTE: ...]` con lo que se necesita y dónd
 | Pieza | Estado |
 | --- | --- |
 | Principios y modelo de ciudad | Redactados, listos para revisión del autor |
-| Diagnóstico | Hipótesis y pruebas definidas, sin datos |
+| Diagnóstico | Hipótesis y pruebas definidas; primeras señales provisionales (servicios, extorsión, demografía) |
 | Nodos | Marco y criterios definidos, sin índice calculado |
 | Frentes | Lista de candidatos, ninguno elegido |
 | Competencias | Matriz inicial con normas por verificar |

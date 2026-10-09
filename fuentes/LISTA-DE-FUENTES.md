@@ -10,6 +10,10 @@ Prioridad **P1** es lo mínimo para el diagnóstico (Fase 2). **P2** se necesita
 
 Si falta más de una cuarta parte de lo P1, me detengo antes de seguir.
 
+## Estado de la entrega (8 de octubre de 2026)
+
+Llegó `F00`, una compilación parcial de páginas públicas (secundaria, sin originales). Sirvió para ubicar rutas y para unas primeras cifras, que se resumen en `research/diagnostico/00-primera-recopilacion.md`. Cubre solo en parte F04, F05, F08, F11, F12, F13 y F14, y nada de lo demás. Lo que sigue pendiente, en este orden: PDF de las bases del Plan de Desarrollo 2024 a 2027 (F01), ejecuciones y marco fiscal (F04), estados financieros con saldos (F05), informe de calidad de vida completo (F12), TerriData y MDM (F10), SECOP (F07), PISCC y estadística delictiva por barrio (F13), y las auditorías a Aguas de Cartagena (F08, F14).
+
 ## P1. Lo mínimo para el diagnóstico
 
 | Código | Documento | Carpeta | Dónde se consigue |

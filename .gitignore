@@ -8,3 +8,13 @@ fuentes/**/*.csv
 fuentes/texto/
 .DS_Store
 Thumbs.db
+
+# Aportes con datos personales de terceros (entrevistas, contactos): no se versionan
+aportes/privado/
+
+# Entregables generados por scripts/build-completo.py (se publican vía GitHub Actions, no se versionan)
+/plan-completo.md
+/completo.html
+
+__pycache__/
+*.pyc

@@ -2,7 +2,7 @@
 
 # Visión de generación: la Cartagena que se decide hoy y se ve en dos décadas
 
-Este plan gobierna cuatro años, de 2028 a 2031. Las decisiones que toma tienen consecuencias que duran mucho más. Una ciudad no cambia de rumbo en un período, y quien promete lo contrario le miente a sus electores. Por eso el plan declara hacia dónde va, para que cada decisión de inversión, de reforma y de secuencia pueda medirse con una pregunta sencilla: ¿nos acerca a esa ciudad o nos aleja?
+Este plan está escrito con los datos de hoy y puede ejecutarse en el próximo período de gobierno o en cualquiera de los tres siguientes. Gobierna cuatro años a la vez, pero las decisiones que toma tienen consecuencias que duran mucho más. Una ciudad no cambia de rumbo en un período, y quien promete lo contrario le miente a sus electores. Por eso el plan declara hacia dónde va, para que cada decisión de inversión, de reforma y de secuencia pueda medirse con una pregunta sencilla: ¿nos acerca a esa ciudad o nos aleja?
 
 Esa ciudad todavía hay que definirla con datos. Lo que sigue es la tabla que se llenará con ellos, y el compromiso de que cada meta se fije después de ver la cifra de partida y no antes.
 
@@ -20,4 +20,4 @@ Esa ciudad todavía hay que definirla con datos. Lo que sigue es la tabla que se
 
 ## Una advertencia honesta
 
-Ninguna alcaldía llega sola a esa meta. Hace falta que cuatro administraciones, de signos distintos, mantengan la dirección de fondo aunque cambien las tácticas. Es el único camino que ha funcionado en las ciudades que cambiaron de verdad. El plan diseña instituciones para que el rumbo sobreviva al alcalde, sin atarle las manos al sucesor que tenga mejor evidencia.
+Ninguna alcaldía llega sola a esa meta. Hace falta que varias administraciones seguidas, de signos distintos, mantengan la dirección de fondo aunque cambien las tácticas. Es el único camino que ha funcionado en las ciudades que cambiaron de verdad. El plan diseña instituciones para que el rumbo sobreviva al alcalde, sin atarle las manos al sucesor que tenga mejor evidencia.

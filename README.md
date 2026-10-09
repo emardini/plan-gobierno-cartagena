@@ -1,6 +1,6 @@
-# Plan de gobierno de Cartagena de Indias, 2028 a 2031
+# Plan de gobierno de Cartagena de Indias
 
-Borrador de trabajo. Aplica a una ciudad y distrito el método del plan nacional "Estado en el Territorio": encontrar las pocas raíces de los problemas, llevar el Estado completo y a la vez a unos pocos lugares, y expandirlo solo cuando haya resultados que otro pueda comprobar.
+Borrador de trabajo, escrito con los datos de hoy y pensado para ejecutarse en el próximo período de gobierno o en alguno de los tres siguientes. Las fechas del plan se cuentan desde la posesión, no desde un año del calendario. Aplica a una ciudad y distrito el método del plan nacional "Estado en el Territorio": encontrar las pocas raíces de los problemas, llevar el Estado completo y a la vez a unos pocos lugares, y expandirlo solo cuando haya resultados que otro pueda comprobar.
 
 Cartagena tiene ya lo que a otras ciudades les falta: puerto, industria, turismo y una marca conocida en el mundo. La pregunta del plan es otra. Es por qué esa riqueza no llega igual a todos los barrios, y qué hace falta para que la ciudad conserve un rumbo aunque cambie quien la gobierna. Barranquilla, la ciudad más cercana que se industrializó y creció, se estudia como fuente de hipótesis, con sus aciertos y sus costos.
 
@@ -12,6 +12,10 @@ Cartagena tiene ya lo que a otras ciudades les falta: puerto, industria, turismo
 | `CLAUDE.md` | Reglas del repositorio, estilo y método |
 | `_sidebar.md` | Orden de lectura del plan |
 | `docs/` | El plan: fundamentos, frentes, transversales y cierre |
+| `COLABORAR.md` | Cómo ayudar sin ser técnico: tareas, plantillas y reglas |
+| `colaboracion/` | Catálogo de tareas, plan de trabajo conjunto, reclutamiento, reglas de convivencia, tablero y el espacio de Drive (con el script que lo crea) |
+| `aportes/` | Registro de los aportes recibidos |
+| `index.html`, `scripts/`, `.github/` | El sitio web (Docsify) y la generación automática de los entregables públicos. Ver `COMO-PUBLICAR.md` |
 | `fuentes/` | Biblioteca de documentos, su manifiesto y la lista de lo que falta |
 | `research/` | Cálculos y notas de análisis reproducibles |
 

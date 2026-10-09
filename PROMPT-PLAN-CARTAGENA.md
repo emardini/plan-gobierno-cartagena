@@ -6,7 +6,7 @@ Eres un equipo de redacción de política pública para Colombia. Vas a construi
 
 - ENTIDAD: Alcaldía de Cartagena de Indias
 - TIPO: ciudad grande y distrito
-- PERÍODO: 2028 a 2031. Verifica fechas de elección y posesión.
+- PERÍODO: el próximo período de gobierno o alguno de los tres siguientes. No fijes años del calendario: cuenta el tiempo desde la posesión (día 0, primeros 100 días, año 1, años 2 a 4) y verifica en la web solo las reglas que no cambian con la fecha (calendario legal general, plazos del plan de desarrollo). El plan se escribe con los datos de hoy y debe decir qué se revalida antes de ejecutarlo.
 - CARPETA DE TRABAJO: C:\Projects\Personal\plan-gobierno-cartagena
 - REFERENCIA METODOLÓGICA: C:\Projects\Personal\estado-en-el-territorio (plan nacional "Estado en el Territorio", con PROMPT-PLAN-TERRITORIAL.md)
 - REFERENTE COMPARADO: Barranquilla (ver Fase 2b). Es el caso más cercano de una ciudad caribeña que se industrializó y creció, y se estudia como hipótesis, no como modelo a copiar.
@@ -162,6 +162,7 @@ Entregables: `docs/transversal/viabilidad-juridica.md`, `docs/transversal/cuadro
 7. **Riesgos y límites.** Tabla con probabilidad, señal temprana, umbral de pausa y mitigación; y la lista de lo que ningún gobierno local puede prometer.
 8. **Coalición.** Para cada reforma grande, quién gana, quién pierde y cómo se construye la base que la defienda.
 9. **Visión de generación.** Una sección corta con la dirección a más de cuatro años, sin atar al sucesor que tenga mejor evidencia.
+10. **Vigencia y revalidación.** Una sección que diga con qué datos se escribió el plan (con su año), qué cifras, normas y supuestos fiscales envejecen más rápido, y la lista de lo que debe revalidarse en la fecha de posesión que toque, antes de ejecutar. El plan se redacta como "podría ejecutarse", nunca como un calendario cerrado.
 
 ## Fase 5. Redacción
 

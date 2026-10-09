@@ -14,6 +14,18 @@ Lo que sigue son tres hipótesis de trabajo `[VERIFICAR]`. Nacen de lo que se co
 | **El rumbo de la ciudad cambia con cada administración y las instituciones del Distrito son frágiles.** Se inician proyectos que no se terminan y se pagan dos veces. | Obras inconclusas, planes que no se heredan, rotación de alcaldes y de directivos, procesos de control | [PENDIENTE: cuenta documentada de alcaldes, encargos, suspensiones y revocatorias; obras inconclusas; estabilidad de directivos de entes descentralizados] | Continuidad real de los proyectos principales entre administraciones |
 | **Una parte de la ciudad vive sin Estado completo: sin drenaje, con agua irregular, con seguridad intermitente y expuesta al clima y al mar.** | Inundaciones recurrentes, informalidad del suelo, economías ilegales en los barrios de periferia | [PENDIENTE: cobertura y continuidad de agua y alcantarillado por barrio; mapa de inundación y riesgo; zonas sin título; estadística delictiva por barrio] | Servicios y seguridad parejos entre barrios |
 
+## Primeras señales (8 de octubre de 2026, provisionales)
+
+Una primera recopilación pública, de fuente secundaria, permite dos lecturas con cautela y abre una pregunta. El detalle y sus limitaciones están en `research/diagnostico/00-primera-recopilacion.md`.
+
+En servicios, el operador de agua reporta coberturas de 99,9% en acueducto y 98% en alcantarillado dentro de su área de prestación, y de 92% y 84% para Cartagena. Son territorios distintos y no se mezclan, pero la distancia entre ambos apunta a población que queda fuera del área, lo cual encaja con la tercera hipótesis. Sin base por barrio no se puede decir más.
+
+En seguridad cotidiana, las extorsiones habrían pasado de 134 casos en 2023 a 379 en 2025. Si el dato se confirma, hay que separar cuánto es delito nuevo y cuánto es denuncia nueva.
+
+La pregunta que el plan no había planteado es demográfica: crecimiento casi nulo en 2025, proyección de leve descenso en 2026 y una caída de nacimientos del 21% en dos años (reseña del informe de calidad de vida 2025). Si se confirma, cambia la demanda de colegios, vivienda y empleo, y quizá merezca una cuarta hipótesis.
+
+Sobre la distribución de la riqueza y la continuidad institucional (las dos primeras hipótesis) no hay todavía datos para decir nada.
+
 ## Cómo se decide
 
 Se reúnen cinco a diez síntomas con cifra y fuente. Se ve cuáles comparten causa. Se queda con dos o tres raíces, no más, y se deja por escrito cuál era la evidencia que habría cambiado esa conclusión. También se documenta qué parte de cada raíz le corresponde al Distrito y qué parte es de la Nación, del departamento o de los privados, porque prometer lo que no se controla es la forma más barata de perder credibilidad.

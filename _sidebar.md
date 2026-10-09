@@ -22,3 +22,12 @@
 - **Cierre**
   - [Secuencia de gobierno](/docs/cierre/secuencia-gobierno.md)
   - [Riesgos y límites](/docs/cierre/riesgos-limites.md)
+
+- **Colaboración**
+  - [Cómo ayudar](/COLABORAR.md)
+  - [Plan de trabajo conjunto](/colaboracion/plan-de-trabajo.md)
+  - [Catálogo de tareas](/colaboracion/tareas.md)
+  - [Reclutamiento](/colaboracion/reclutamiento.md)
+  - [El espacio en Drive](/colaboracion/espacio-drive.md)
+  - [Reglas de convivencia](/colaboracion/reglas-de-convivencia.md)
+  - [Cómo se publica el sitio](/COMO-PUBLICAR.md)
