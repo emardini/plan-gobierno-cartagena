@@ -4,7 +4,7 @@ Este plan de trabajo se mide en semanas desde el arranque, no en fechas del cale
 
 ## Cómo trabajamos
 
-- **Una reunión corta por semana** (45 minutos, por llamada): qué se hizo, qué se trabó, qué sigue.
+- **Trabajo asíncrono primero** (ver `trabajo-asincrono.md`): dos mensajes cortos por semana en la bitácora del equipo (qué haré y qué hice), y llamadas solo cuando hagan falta. `[DECIDIR: si habrá una llamada de equipo y con qué frecuencia.]`
 - **Un espacio en Google Drive** (ver `espacio-drive.md`): un formulario para entregar aportes, una hoja de tareas como tablero (con su dueño y su estado, que cada persona puede actualizar) y carpetas de lectura. Un grupo de WhatsApp sirve solo para conversar, no para entregar aportes.
 - **Un cuidador del repositorio**, que recibe los aportes, los registra, avisa a quien aportó y pasa al repositorio lo que corresponda. Al inicio es quien coordina.
 - **Una cosa a la vez por persona**: se toma una tarea, se termina o se devuelve, y luego se toma otra.
