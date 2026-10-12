@@ -11,6 +11,7 @@ Un plan serio dice qué puede salir mal, cómo se vería a tiempo y qué se har�
 | El Concejo no aprueba el plan de desarrollo o los acuerdos clave | Bancadas sin acuerdo en el primer mes | [PENDIENTE] | Ejecutar por decreto lo propio, dejar redactado el resto, pactos programáticos |
 | Los recursos fiscales resultan menores de lo previsto | Recaudo del primer año por debajo del escenario base | [PENDIENTE] | Compromisos duros solo en el escenario base |
 | La Nación o el departamento no cumplen lo que se gestiona | Convenios sin firma o sin giro | [PENDIENTE] | Plan B con recursos propios para el piso universal |
+| El equipo directivo no está completo el día de la posesión | Cargos críticos sin finalistas en la quinta semana después de la elección | [PENDIENTE] | Método publicado durante la campaña, lista de reserva de al menos dos candidatos evaluados por cargo, encargo temporal antes que un nombramiento apresurado |
 | Captura de los nodos o de la contratación | Anomalías en la plataforma, concentración de contratistas | [PENDIENTE] | Mapa de captura, sorteos, fiducia, doble firma |
 | La Ola 1 no genera empleo formal | Empleo formal de los nodos estancado | [PENDIENTE] | Caducidad por fracaso, ajuste del diseño |
 | Choque de violencia o de seguridad que supere la capacidad local | Cambios fuertes en homicidio o extorsión | [PENDIENTE] | Coordinación con la Nación, protocolos, foco en lo que sí se controla |

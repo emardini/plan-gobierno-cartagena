@@ -1,0 +1,6 @@
+- [Inicio](/README.md)
+- [Fundamentos](/docs/01-vision-de-generacion.md)
+- [Frentes](/docs/frentes/00-candidatos.md)
+- [Transversal](/docs/transversal/referente-barranquilla.md)
+- [Cierre](/docs/cierre/listos-dia-uno.md)
+- [Cómo ayudar](/COLABORAR.md)

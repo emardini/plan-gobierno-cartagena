@@ -10,9 +10,9 @@ Los plazos para presentar y aprobar el plan de desarrollo, la fecha de posesión
 
 ## Lógica de la secuencia
 
-**Antes de la posesión.** Empalme riguroso: estado fiscal, contratos en ejecución, obras inconclusas, procesos judiciales, planta de personal. Lo que se herede se conserva si sirve. Nada de lo que aparezca se descubre después.
+**Antes de la posesión.** Empalme riguroso: estado fiscal, contratos en ejecución, obras inconclusas, procesos judiciales, planta de personal. Lo que se herede se conserva si sirve. Nada de lo que aparezca se descubre después. En paralelo se escoge el equipo de gobierno por mérito, con un método publicado, y se prepara lo que el alcalde debe tener en la mano el primer día (ver [Listos para el día uno](listos-dia-uno.md)).
 
-**Primeros cien días.** Solo lo que se puede hacer por decreto, resolución o contrato, y lo que da señales de método: publicación de los criterios de selección de nodos y de los indicadores, apertura de la contratación, el mecanismo de auditoría por sorteo, nombramiento por concurso en cargos clave, y el plan de desarrollo presentado en plazo.
+**Primeros cien días.** Solo lo que se puede hacer por decreto, resolución o contrato, y lo que da señales de método: publicación de los criterios de selección de nodos y de los indicadores, apertura de la contratación, el mecanismo de auditoría por sorteo, la publicación de las hojas de vida del equipo nombrado y de la razón de cada nombramiento, y el plan de desarrollo presentado en plazo.
 
 **Año 1.** Se arranca la Ola 1 de nodos: el índice calculado por un tercero, los primeros contratos integrados de obra y operación, la fiducia, el piso universal. Se presentan al Concejo los acuerdos que se dejaron redactados.
 

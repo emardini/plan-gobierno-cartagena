@@ -20,6 +20,7 @@
   - [Fundamentos de investigación](/docs/transversal/fundamentos-investigacion.md)
 
 - **Cierre**
+  - [Listos para el día uno](/docs/cierre/listos-dia-uno.md)
   - [Secuencia de gobierno](/docs/cierre/secuencia-gobierno.md)
   - [Riesgos y límites](/docs/cierre/riesgos-limites.md)
 

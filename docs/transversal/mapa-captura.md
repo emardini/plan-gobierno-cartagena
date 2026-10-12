@@ -9,7 +9,7 @@ Un plan que supone la buena fe de todos termina capturado por quienes no la tien
 | Punto | Cómo se captura | Candado candidato | Pendiente |
 | --- | --- | --- | --- |
 | Contratación de obra y de consultoría | Direccionamiento, contratación directa excesiva, adiciones y prórrogas | Sorteo público de auditorías con probabilidad publicada, interventores asignados al azar y pagados desde fiducia, verificación física de lo pagado contra lo construido | [PENDIENTE: concentración de contratistas y proporción directa, SECOP] |
-| Nómina y contratos de prestación de servicios | Cuotas políticas, cargos para pagar apoyos | Concursos, perfiles públicos, topes y publicación completa de la planta y los contratistas | [PENDIENTE: planta y contratos por entidad] |
+| Nómina y contratos de prestación de servicios | Cuotas políticas, cargos para pagar apoyos | Selección del equipo directivo por mérito con método publicado (ver [Listos para el día uno](../cierre/listos-dia-uno.md)), concursos, perfiles públicos, topes y publicación completa de la planta y los contratistas | [PENDIENTE: planta y contratos por entidad] |
 | Entes descentralizados y empresas distritales | Juntas directivas politizadas, gerentes por cuota | Gobierno corporativo, miembros independientes, concurso para gerente, metas públicas | [PENDIENTE: empresas y entes del Distrito] |
 | Licencias, permisos y control urbano | Pagos por agilizar, tolerancia con la informalidad | Trámites en línea con trazabilidad, doble firma, rotación de funcionarios | [PENDIENTE] |
 | Localidades y juntas | Recursos de los fondos de desarrollo local convertidos en clientelismo | Planeación participativa con proyectos públicos y verificación ciudadana, con doble firma obligatoria para todo despeje | [PENDIENTE] |
