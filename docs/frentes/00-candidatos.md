@@ -15,7 +15,7 @@ Esta lista es de partida y se poda con la Fase 2. Es posible que alguno desapare
 | Empleo y productividad urbana | Si la riqueza no llega a los barrios, el empleo formal es el canal más directo | Ejecuta y convoca |
 | Hacienda local, catastro y recaudo (borrador en [Hacienda, catastro y suelo](hacienda-catastro-suelo.md)) | Sin recaudo propio no hay obra sostenible ni autonomía | Ejecuta |
 | Vivienda, suelo y mejoramiento de barrios | Informalidad del suelo, riesgo y arraigo | Ejecuta y gestiona |
-| Movilidad y espacio público | Tiempo perdido, seguridad vial y calidad del espacio | Ejecuta |
+| Movilidad y espacio público (borrador en [Transporte desde los barrios](transporte-desde-los-barrios.md)) | Tiempo perdido, seguridad vial y calidad del espacio | Ejecuta |
 | Turismo y distribución de su valor (borrador en [Turismo de calidad y playas para todos](turismo-de-calidad.md)) | Una industria que deje más en la ciudad y menos en la sombra | Convoca y ejecuta |
 | Puerto, industria y logística con arraigo local | Cuánto valor se queda aquí como empleo formal y recaudo | Gestiona y convoca |
 | Educación y primera infancia | Retorno de largo plazo, en especial en los nodos | Ejecuta, si la entidad es certificada `[VERIFICAR]` |

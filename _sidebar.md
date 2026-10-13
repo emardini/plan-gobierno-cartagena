@@ -15,6 +15,7 @@
   - [Niñez protegida, drogas y economías criminales (borrador)](/docs/frentes/ninez-drogas-economias-criminales.md)
   - [Turismo de calidad y playas para todos (borrador)](/docs/frentes/turismo-de-calidad.md)
   - [Deporte para la juventud (borrador)](/docs/frentes/deporte-juventud.md)
+  - [Transporte desde los barrios (borrador)](/docs/frentes/transporte-desde-los-barrios.md)
 
 - **Transversal**
   - [Referente comparado: Barranquilla](/docs/transversal/referente-barranquilla.md)

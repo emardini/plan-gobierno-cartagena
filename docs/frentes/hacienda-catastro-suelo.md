@@ -11,9 +11,10 @@ La idea central viene de la [columna vertebral](../05-columna-vertebral.md): que
 | Dato | Valor reportado | Fecha | Fuente | Firmeza |
 | --- | --- | --- | --- | --- |
 | Predios facturados por predial | Más de 316 mil | Enero de 2025 | El Universal | Prensa, por confirmar con Hacienda |
-| Meta de recaudo del predial | 458.399,7 millones de pesos con intereses | 2025 | El Universal, con cifras de la Secretaría de Hacienda | Prensa |
+| Meta de recaudo del predial | 458.399,7 millones de pesos con intereses en 2025 y 503.081 millones en 2026 | 2025 y 2026 | Marco Fiscal de Mediano Plazo 2026 a 2035 | Documento oficial |
+| Recaudo del predial, capital de libre destinación | 378.747 millones de pesos, el 105 % de lo presupuestado (urbano 315.917, rural 62.830) | 2025 | Informe de gestión de Hacienda 2025 | Documento oficial |
 | Recaudo del predial al 1 de abril | 323.410 millones de pesos, 64 % de la meta anual y 36 % más que en la misma fecha de 2025 | 2026 | El Universal | Prensa |
-| Cartera morosa del predial | Más de 900 mil millones de pesos | Sin fecha clara | El Universal | Débil; hay que depurarla |
+| Cartera del predial | 1.655.292 millones por cobrar, de los que 650.513 se dan por difíciles de cobrar; neta, 1.004.779 millones | 31 de diciembre de 2024 | Estados financieros del Distrito de 2024 | Documento oficial, falta depurarla por tamaño de deudor |
 | Cartera morosa de todos los impuestos, sin depurar | 2,5 billones de pesos | Agosto de 2021 | Secretaría de Hacienda, citada por El Universal | Vieja y sin depurar |
 | Cumplimiento de pago | Cerca de la mitad de los contribuyentes, según Hacienda; poco más del 30 % de los predios liquidados, según otra nota | Años anteriores a 2023 | El Universal | Contradictorio; hay que medirlo |
 | Última actualización catastral completa | Ejecutada en 2022, con efectos fiscales en 2023, después de cerca de ocho años sin actualizar | 2022 y 2023 | Resoluciones del Distrito y El Universal | Documento oficial |

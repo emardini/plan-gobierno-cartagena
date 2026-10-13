@@ -46,6 +46,16 @@ Fuentes consultadas el 12 de octubre de 2026 por búsqueda web. Son de prensa o 
 | Titulación colectiva en La Boquilla, Barú y Tierra Bomba | [El Universal, la ANT con comunidades negras](https://www.eluniversal.com.co/cartagena/ant-se-reunio-con-comunidades-negras-de-cartagena-CA3442949) | Zona rural e insular con cuidado | Zona rural y las islas |
 | Lavado de activos y testaferrato en finca raíz | [PENDIENTE: tipologías de la UIAF y estudios sobre lavado en finca raíz en Colombia] | Señales de alerta con reglas publicadas | Ideas 11 a 15 |
 
+## Cuadro fiscal
+
+Documentos oficiales descargados el 12 de octubre de 2026 y guardados en `fuentes/municipio/`. Las cifras derivadas se recalculan con `scripts/cuadro-fiscal.sh`.
+
+| Hallazgo | Fuente | Ajuste | Dónde aplica |
+| --- | --- | --- | --- |
+| Ingresos corrientes de libre destinación (ICLD) de 2026, su reparto, indicador de la Ley 617 (47,36 %), plan financiero de predial e ICA, metas de superávit primario, saldo e intereses de la deuda hasta 2035, sentencias por pagar y provisión por litigios | [Marco Fiscal de Mediano Plazo 2026 a 2035 (F04.1)](https://cartagena.gov.co/sites/default/files/transparencia/documentos/2026-03/Marco%20Fiscal%20de%20Mediano%20Plazo%20%28MFMP%29%202026-2035.pdf) | Reemplaza la estructura sin cifras | Cuadro fiscal; meta del predial en el frente de suelo |
+| Ejecución de ingresos y gastos de 2025, recaudo del predial y del ICA, créditos firmados y desembolsados, saldo de la deuda al cierre de 2025, Acuerdo 188 de 2025 de cartera | [Informe de gestión de la Secretaría de Hacienda 2025 (F04.2)](https://cartagena.gov.co/sites/default/files/transparencia/documentos/2026-05/INFORME%20DE%20GESTI%C3%93N%20SECRETARIA%20DE%20HACIENDA%202025.pdf) | Reemplaza cifras de prensa | Cuadro fiscal; recaudo del predial en el frente de suelo |
+| Cartera del predial bruta, deterioro y neta al cierre de 2024; peso del pasivo pensional | [Estados financieros a 31 de diciembre de 2024 (F05.1)](https://cartagena.gov.co/sites/default/files/transparencia/documentos/2025-03/ESTADOS_FINANCIEROS_31_DIC_2024.pdf) | Reemplaza la cartera "de más de 900 mil millones" de prensa | Cuadro fiscal; frente de suelo |
+
 ## Niñez protegida, drogas y economías criminales
 
 Fuentes consultadas el 12 de octubre de 2026 por búsqueda web, pendientes de reemplazo por los originales.
@@ -84,6 +94,18 @@ Fuentes consultadas el 12 de octubre de 2026 por búsqueda web, pendientes de re
 | Deterioro de los escenarios de 2006 y costo estimado de recuperarlos | [El Universal, 30 de mayo de 2018](https://www.eluniversal.com.co/deportes/2018/05/30/escenarios-deportivos-de-cartagena-el-tiempo-es-su-peor-enemigo/) | Mantenimiento primero | Mantener antes de construir |
 | Laguna de El Cabrero certificada para deportes náuticos | [El Universal, 28 de julio de 2024](https://www.eluniversal.com.co/cartagena/2024/07/28/certifican-la-laguna-de-el-cabrero-como-escenario-de-deportes-nauticos-en-cartagena/) | Ventaja natural | Deportes acuáticos |
 | Efecto de los programas deportivos sobre la violencia juvenil | [PENDIENTE: evaluaciones con grupo de comparación] | No se promete, se mide | Medir de verdad |
+
+## Transporte desde los barrios
+
+Fuentes consultadas el 12 de octubre de 2026 por búsqueda web, pendientes de reemplazo por los originales.
+
+| Hallazgo | Fuente | Ajuste | Dónde aplica |
+| --- | --- | --- | --- |
+| Reparto por modo de transporte en 2023 | [Cartagena Cómo Vamos, movilidad en el informe de calidad de vida 2023](https://cartagenacomovamos.org/wp-content/uploads/2025/02/comovamosen-movilidad-ICV2023-cartagenacomovamos.pdf) | Línea de base provisional | Diagnóstico del frente |
+| Pasajeros de Transcaribe y razones de insatisfacción en 2025 | [El Universal, 4 de mayo de 2026](https://www.eluniversal.com.co/cartagena/2026/05/04/aumentar-la-demanda-uno-de-los-grandes-retos-de-transcaribe-en-cartagena/) | Medir el servicio desde el usuario | Ideas 1 y 6 |
+| Diez años de Transcaribe y reportes de déficit | [El Universal, 31 de diciembre de 2025](https://www.eluniversal.com.co/cartagena/2025/12/31/asi-fueron-los-primeros-10-anos-de-la-operacion-de-transcaribe-en-cartagena/) y [El Universal, 8 de diciembre de 2025](https://www.eluniversal.com.co/cartagena/2025/12/08/transcaribe-la-operacion-para-2026-no-esta-en-riesgo/) | Cuentas a la vista | Idea 9 |
+| Nelson Mandela sin busetas al entrar Transcaribe | [El Universal, 22 de diciembre de 2020](https://www.eluniversal.com.co/cartagena/2020/12/22/necesitamos-que-regresen-las-busetas-habitantes-de-nelson-mandela/) | Integrar al transportador que existe | Idea 2 |
+| Proyecto de transporte acuático | [El Universal, 31 de octubre de 2025](https://www.eluniversal.com.co/cartagena/2025/10/31/transcaribe-presenta-su-proyecto-de-transporte-acuatico-al-sector-maritimo/) | Llevarlo a la ciénaga con tarifa integrada | Idea 5 |
 
 ## Selección del equipo y alistamiento del día uno
 

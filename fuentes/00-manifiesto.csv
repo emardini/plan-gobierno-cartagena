@@ -1,12 +1,12 @@
 codigo,prioridad,nivel,tema,titulo,entidad,url,fecha_publicacion,fecha_descarga,ruta_local,estado
 F00,P1,municipio,consolidado,Expediente publico consolidado (primera recopilacion parcial; secundario),Compilacion externa entregada por el autor,,2026-10-08,2026-10-08,fuentes/municipio/F00_expediente-publico-consolidado-2026-10-08.pdf,parcial
-F01,P1,municipio,planeacion,Plan de Desarrollo vigente y dos anteriores,Alcaldia de Cartagena,,,,,pendiente
-F02,P1,municipio,planeacion,Informes de seguimiento rendicion de cuentas y empalme,Alcaldia de Cartagena,,,,,pendiente
-F03,P1,municipio,ordenamiento,Plan de Ordenamiento Territorial,Alcaldia de Cartagena,,,,,pendiente
+F01,P1,municipio,planeacion,Plan de Desarrollo vigente y dos anteriores,Alcaldia de Cartagena,,,,,parcial
+F02,P1,municipio,planeacion,Informes de seguimiento rendicion de cuentas y empalme,Alcaldia de Cartagena,,,,,parcial
+F03,P1,municipio,ordenamiento,Plan de Ordenamiento Territorial,Alcaldia de Cartagena,,,,,parcial
 F04,P1,municipio,fiscal,Marco Fiscal de Mediano Plazo presupuestos y ejecuciones,Secretaria de Hacienda,,,,,parcial
 F05,P1,municipio,fiscal,Estados financieros deuda pasivo pensional contingencias y categoria,Secretaria de Hacienda / CHIP,,,,,parcial
-F06,P1,municipio,fiscal,Estatuto tributario acuerdos de rentas e informacion catastral,Secretaria de Hacienda / Concejo,,,,,pendiente
-F07,P1,datos,contratacion,SECOP I y II del Distrito 3 a 5 anos,Colombia Compra Eficiente / datos.gov.co,,,,,pendiente
+F06,P1,municipio,fiscal,Estatuto tributario acuerdos de rentas e informacion catastral,Secretaria de Hacienda / Concejo,,,,,parcial
+F07,P1,datos,contratacion,SECOP I y II del Distrito 3 a 5 anos,Colombia Compra Eficiente / datos.gov.co,,,,,parcial
 F08,P1,municipio,control,Informes de organos de control sobre el Distrito,Contraloria / Personeria / Procuraduria,,,,,parcial
 F09,P1,municipio,institucional,Estructura organica planta y entes descentralizados,Alcaldia de Cartagena,,,,,pendiente
 F10,P1,datos,desempeno,MDM del DNP y series de TerriData,DNP,,,,,pendiente
@@ -37,3 +37,35 @@ F47,P3,referente-barranquilla,criticas,Investigaciones sobre contratacion poder 
 F48,P3,referente-santa-marta,contraste,Santa Marta control negativo (planes fiscal servicios indicadores control),Alcaldia de Santa Marta / CHIP / DANE,,,,,pendiente
 F50,P3,referente-medellin,contraste,Medellin exito por otra ruta (planes fiscal empresas publicas evaluaciones),Alcaldia de Medellin / CHIP / DANE / Medellin Como Vamos,,,,,pendiente
 F49,P3,municipio,politico,Cuenta de alcaldes suspensiones y revocatorias,Registraduria / Procuraduria / Consejo de Estado,,,,,pendiente
+F60,P2,municipio,suelo,Base catastral agregada por destino estrato y localidad y lotes,Hacienda / gestor catastral AMB,,,,,pendiente
+F61,P2,municipio,suelo,Facturacion recaudo y cartera del predial depurada,Secretaria de Hacienda,,,,,pendiente
+F62,P2,municipio,suelo,Plusvalia y valorizacion acuerdos liquidaciones y recaudo,Concejo / Planeacion / Hacienda,,,,,pendiente
+F63,P2,datos,suelo,Concentracion de la propiedad por persona juridica,Superintendencia de Notariado y Registro / catastro,,,,,pendiente
+F64,P2,datos,ninez,Caracterizacion ESCNNA y examenes por delito sexual,DANE / Medicina Legal,,,,,pendiente
+F65,P2,municipio,ninez,Comisarias de familia planta horarios y casos,Distrito / Personeria,,,,,pendiente
+F66,P2,datos,ninez,Consumo de sustancias en escolares,Observatorio de Drogas de Colombia,,,,,pendiente
+F67,P2,datos,turismo,Prestadores con Registro Nacional de Turismo,Mincomercio,,,,,pendiente
+F68,P2,datos,turismo,Ocupacion gasto estadia y empleo turistico,DANE / Observatorio de Turismo / Corpoturismo,,,,,pendiente
+F69,P2,municipio,turismo,Inventario de playas permisos y denuncias,Secretaria del Interior / Corpoturismo,,,,,pendiente
+F70,P2,municipio,deporte,Escenarios programas inscritos y presupuesto del IDER,IDER,,,,,pendiente
+F71,P2,municipio,transporte,Estados financieros tarifa tecnica y frecuencias de Transcaribe,Transcaribe,,,,,pendiente
+F72,P2,municipio,transporte,Encuesta origen destino rutas colectivas y estudios de transporte acuatico,DATT / Transcaribe / Planeacion,,,,,pendiente
+F73,P2,regional,percepcion,Encuesta de Percepcion Ciudadana 2025,Cartagena Como Vamos,,,,,pendiente
+F01.1,P1,municipio,planeacion,Acuerdo 139 de 2024 Plan de Desarrollo Cartagena Ciudad de Derechos,Concejo Distrital (copia en Corvivienda),https://corvivienda.gov.co/repositorio/doc_transparencia/02_normativa/4-2/ACUERDO%20DISTRITAL%20PLAN%20DE%20DESARROLLO%202024-2027.pdf,2024-05-29,2026-10-12,fuentes/municipio/F01_acuerdo-139-2024-plan-desarrollo.pdf,descargado
+F02.1,P1,municipio,planeacion,Informe de seguimiento global PDD corte marzo 2026,Secretaria de Planeacion,https://cartagena.gov.co/sites/default/files/transparencia/documentos/2026-06/INFORME%20DE%20SEGUIMIENTO%20GLOBAL%20PDD%202024%20-2027_CORTE%20MARZO%202026.pdf,2026-06,2026-10-12,fuentes/municipio/F02_seguimiento-pdd-marzo-2026.pdf,descargado
+F03.1,P1,nacional,ordenamiento,Guia metodologica del expediente municipal,Ministerio de Vivienda,https://www.minvivienda.gov.co/sites/default/files/documentos/Guia%20Expediente%2015092019.pdf,2019-09-15,2026-10-12,fuentes/nacional/F03_guia-expediente-municipal-minvivienda-2019.pdf,descargado
+F04.1,P1,municipio,fiscal,Marco Fiscal de Mediano Plazo 2026-2035,Secretaria de Hacienda,https://cartagena.gov.co/sites/default/files/transparencia/documentos/2026-03/Marco%20Fiscal%20de%20Mediano%20Plazo%20%28MFMP%29%202026-2035.pdf,2026-03,2026-10-12,fuentes/municipio/F04_mfmp-2026-2035.pdf,descargado
+F04.2,P1,municipio,fiscal,Informe de gestion Secretaria de Hacienda 2025,Secretaria de Hacienda,https://cartagena.gov.co/sites/default/files/transparencia/documentos/2026-05/INFORME%20DE%20GESTI%C3%93N%20SECRETARIA%20DE%20HACIENDA%202025.pdf,2026-05,2026-10-12,fuentes/municipio/F04_informe-gestion-hacienda-2025.pdf,descargado
+F04.3,P1,municipio,fiscal,Proyecto de Acuerdo 042 de 2024 presupuesto 2025,Concejo Distrital,https://concejodistritaldecartagena.gov.co/wp-content/uploads/2024/10/P.A.-042-DE-2024-PRESUPUESTO-2025.pdf,2024-10,2026-10-12,fuentes/municipio/F04_proyecto-presupuesto-2025.pdf,descargado
+F05.1,P1,municipio,fiscal,Estados financieros a 31 de diciembre de 2024,Secretaria de Hacienda,https://cartagena.gov.co/sites/default/files/transparencia/documentos/2025-03/ESTADOS_FINANCIEROS_31_DIC_2024.pdf,2025-03,2026-10-12,fuentes/municipio/F05_estados-financieros-2024.pdf,descargado
+F05.2,P1,municipio,fiscal,Estados financieros completos 2023,Secretaria de Hacienda,https://cartagena.gov.co/sites/default/files/transparencia/documentos/2024-02/ESTADOS%20FINANCIEROS%20COMPLETO%202023%20DISTRITO%20DE%20CARTAGENA_0.pdf,2024-02,2026-10-12,fuentes/municipio/F05_estados-financieros-2023.pdf,descargado
+F06.1,P1,municipio,fiscal,Proyecto de Acuerdo 053 de 2024 reforma del estatuto tributario,Concejo Distrital,https://concejodistritaldecartagena.gov.co/wp-content/uploads/2024/11/P.A.-053-DE-2024-MODIFICACION-ESTATUTO-TRIBUTARIO.pdf,2024-11,2026-10-12,fuentes/municipio/F06_pa-053-2024-reforma-estatuto.pdf,descargado
+F06.2,P1,municipio,fiscal,Ponencia segundo debate PA 019 de 2024 estatuto de valorizacion,Concejo Distrital,https://concejodistritaldecartagena.gov.co/wp-content/uploads/2024/08/P.A.019-2024-PONENCIA-2o.-DEBATE.docxO_.K.pdf,2024-08,2026-10-12,fuentes/municipio/F06_pa-019-2024-valorizacion.pdf,descargado
+F06.3,P1,municipio,catastro,Resolucion CTG 005 de 2022 cierre de la actualizacion catastral,Gestor catastral,https://cartagena.gov.co/sites/default/files/transparencia/documentos/2022-12/Resoluci%C3%B3n%20cierre%20actualizaci%C3%B3n%20Cartagena%20CTG%20005%20DE%202022_0.pdf,2022-12,2026-10-12,fuentes/municipio/F06_resolucion-cierre-actualizacion-2022.pdf,descargado
+F06.4,P1,municipio,catastro,Resolucion 003 de 2024 entrega del servicio catastral al AMB,Distrito,https://cartagena.gov.co/sites/default/files/transparencia/documentos/2025-01/RESOLUCION%20003%202024_ENTREGA_PRESTACION_SERVICIO_CATASTRAL_AMB.pdf,2025-01,2026-10-12,fuentes/municipio/F06_resolucion-entrega-catastro-amb.pdf,descargado
+F07.1,P1,datos,contratacion,SECOP II contratos de 16 entidades del Distrito firmados desde 2021 (sin cuentas bancarias ni documentos de supervisores),datos.gov.co conjunto jbjy-vk9h,https://www.datos.gov.co/resource/jbjy-vk9h,2026-10-12,2026-10-12,fuentes/datos/F07_secop2-contratos-distrito-2021-2026.csv,descargado
+F12.1,P1,regional,percepcion,Informe de Calidad de Vida 2025,Cartagena Como Vamos,https://cartagenacomovamos.org/wp-content/uploads/2026/07/ICV_Informe-Calidad-de-Vida_Cartagena_2025_CCV.pdf,2026-07,2026-10-12,fuentes/regional/F12_ccv-calidad-de-vida-2025.pdf,descargado
+F12.2,P1,regional,percepcion,Informe de Calidad de Vida 2024,Cartagena Como Vamos,https://cartagenacomovamos.org/wp-content/uploads/2025/07/Informe-Calidad-de-Vida-2024-CartagenaComoVamos.pdf,2025-07,2026-10-12,fuentes/regional/F12_ccv-calidad-de-vida-2024.pdf,descargado
+F12.3,P1,regional,movilidad,Movilidad en el informe de calidad de vida 2023,Cartagena Como Vamos,https://cartagenacomovamos.org/wp-content/uploads/2025/02/comovamosen-movilidad-ICV2023-cartagenacomovamos.pdf,2025-02,2026-10-12,fuentes/regional/F12_ccv-movilidad-2023.pdf,descargado
+F13.1,P1,datos,seguridad,Estudio de lineamientos del PISCC distrital 2024,Distrito,https://cartagena.gov.co/sites/default/files/transparencia/documentos/2025-05/PISCC_DISTRITAL%202024.pdf,2025-05,2026-10-12,fuentes/datos/F13_piscc-distrital-2024.pdf,descargado
+F68.1,P2,regional,turismo,Boletin IDEEAS 2 de 2025 sobre turismo,Universidad Tecnologica de Bolivar,https://www.utb.edu.co/wp-content/uploads/2025/06/Boletin-IDEEAS_N%C2%B02_2025_Turismo.pdf,2025-06,2026-10-12,fuentes/regional/F68_utb-boletin-turismo-2025.pdf,descargado

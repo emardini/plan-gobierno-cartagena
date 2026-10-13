@@ -93,6 +93,27 @@ Siguen sin enlace directo: el texto del Acuerdo 107 de 2022, el Decreto 0977 de 
 | F50 | Medellín (éxito por otra ruta): planes de desarrollo desde 2001, historia fiscal, esquema de empresas públicas (EPM y otras), Medellín Cómo Vamos, evaluaciones independientes y críticas | `referente-medellin/` | Alcaldía de Medellín; CHIP; DANE; Medellín Cómo Vamos; academia |
 | F49 | Cuenta documentada de alcaldes de Cartagena en los últimos veinte años: elecciones, suspensiones, destituciones y revocatorias | `municipio/` | Registraduría; Procuraduría; Consejo de Estado; prensa |
 
+## P2. Datos que piden los frentes en borrador (agregados el 12 de octubre de 2026)
+
+Varios de estos no están publicados y se piden por derecho de petición (Ley 1755 de 2015), que la entidad debe responder en un plazo legal. Los datos de personas se piden agregados o anonimizados.
+
+| Código | Documento o dato | Carpeta | Dónde se consigue | Frente |
+| --- | --- | --- | --- | --- |
+| F60 | Base catastral agregada: número de predios y avalúo por destino, estrato y localidad; lotes urbanizables sin urbanizar y urbanizados sin construir | `municipio/` | Secretaría de Hacienda y gestor catastral (AMB), por derecho de petición | Suelo |
+| F61 | Facturación, recaudo y cartera del predial por estrato, destino y tamaño de deuda, depurada | `municipio/` | Secretaría de Hacienda, por derecho de petición | Suelo |
+| F62 | Acuerdo de plusvalía vigente, liquidaciones y recaudo histórico; estatuto de valorización vigente | `municipio/` | Concejo; Secretaría de Planeación; Hacienda | Suelo |
+| F63 | Concentración de la propiedad: predios por persona jurídica en suelo urbano y de expansión | `datos/` | Superintendencia de Notariado y Registro (datos abiertos) y catastro | Suelo |
+| F64 | Caracterización de la explotación sexual comercial de niños, niñas y adolescentes, con dato de Cartagena; exámenes por delito sexual por municipio | `datos/` | DANE (micrositio de ESCNNA); Medicina Legal (Forensis) | Niñez |
+| F65 | Comisarías de familia: número, planta, horarios, casos por año y tiempos de atención | `municipio/` | Distrito, por derecho de petición; Personería | Niñez |
+| F66 | Consumo de sustancias en escolares, con dato de Cartagena o de Bolívar | `datos/` | Observatorio de Drogas de Colombia (Ministerio de Justicia) | Niñez |
+| F67 | Prestadores turísticos con Registro Nacional de Turismo en Cartagena, por tipo | `datos/` | Ministerio de Comercio, Industria y Turismo (datos abiertos del RNT) | Niñez y turismo |
+| F68 | Ocupación hotelera, gasto y estadía del turista por tipo; empleo turístico | `datos/` | DANE (encuesta de alojamiento y GEIH); Observatorio de Turismo; Corpoturismo | Turismo |
+| F69 | Inventario de playas: servicios existentes, permisos de vendedores y operadores, denuncias por abuso al turista | `municipio/` | Secretaría del Interior, espacio público y Corpoturismo, por derecho de petición; Decreto 1811 de 2015 | Turismo |
+| F70 | Inventario y estado de los escenarios deportivos; programas, inscritos por sexo y edad, entrenadores y presupuesto del IDER | `municipio/` | IDER, por derecho de petición | Deporte |
+| F71 | Estados financieros de Transcaribe, informe de tarifa técnica, rutas y frecuencias programadas frente a las cumplidas | `municipio/` | Transcaribe | Transporte |
+| F72 | Encuesta de origen y destino más reciente; rutas de transporte colectivo habilitadas; estudios del transporte acuático | `municipio/` | DATT; Transcaribe; Secretaría de Planeación | Transporte |
+| F73 | Encuesta de Percepción Ciudadana 2025 completa | `regional/` | Cartagena Cómo Vamos | Todos |
+
 ## Lo que decidiría si no hay tiempo para todo
 
 Con F01 a F06, F10, F11 y F15 puedo armar un primer diagnóstico (Fase 2) en forma de borrador, aunque falten el resto. El orden de utilidad es: finanzas y plan de desarrollo, luego datos socioeconómicos y de servicios, luego contratación, luego Barranquilla.

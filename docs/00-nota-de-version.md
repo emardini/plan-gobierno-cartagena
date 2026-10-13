@@ -19,7 +19,7 @@ Todo dato que falta se escribe `[PENDIENTE: ...]` con lo que se necesita y dónd
 | Nodos | Marco y criterios definidos, sin índice calculado |
 | Frentes | Lista de candidatos, ninguno elegido |
 | Competencias | Matriz inicial con normas por verificar |
-| Cuadro fiscal | Estructura y fórmulas, sin cifras |
+| Cuadro fiscal | Cifras oficiales de ingresos, ICLD, Ley 617, deuda, pasivos y cartera, tomadas del Marco Fiscal 2026 a 2035, el informe de Hacienda 2025 y los estados financieros 2024; faltan pensiones, regalías y el SGP futuro |
 | Barranquilla | Programa de estudio y matriz vacía |
 | Resumen ejecutivo | No se escribe hasta el final |
 
