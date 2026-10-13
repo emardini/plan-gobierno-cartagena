@@ -11,6 +11,10 @@
 
 - **Los frentes**
   - [Candidatos a frente y cómo se eligen](/docs/frentes/00-candidatos.md)
+  - [Hacienda, catastro y suelo (borrador)](/docs/frentes/hacienda-catastro-suelo.md)
+  - [Niñez protegida, drogas y economías criminales (borrador)](/docs/frentes/ninez-drogas-economias-criminales.md)
+  - [Turismo de calidad y playas para todos (borrador)](/docs/frentes/turismo-de-calidad.md)
+  - [Deporte para la juventud (borrador)](/docs/frentes/deporte-juventud.md)
 
 - **Transversal**
   - [Referente comparado: Barranquilla](/docs/transversal/referente-barranquilla.md)

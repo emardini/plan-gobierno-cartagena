@@ -14,6 +14,33 @@ Si falta más de una cuarta parte de lo P1, me detengo antes de seguir.
 
 Llegó `F00`, una compilación parcial de páginas públicas (secundaria, sin originales). Sirvió para ubicar rutas y para unas primeras cifras, que se resumen en `research/diagnostico/00-primera-recopilacion.md`. Cubre solo en parte F04, F05, F08, F11, F12, F13 y F14, y nada de lo demás. Lo que sigue pendiente, en este orden: PDF de las bases del Plan de Desarrollo 2024 a 2027 (F01), ejecuciones y marco fiscal (F04), estados financieros con saldos (F05), informe de calidad de vida completo (F12), TerriData y MDM (F10), SECOP (F07), PISCC y estadística delictiva por barrio (F13), y las auditorías a Aguas de Cartagena (F08, F14).
 
+## Enlaces directos encontrados (12 de octubre de 2026)
+
+Encontrados por búsqueda web. Desde el entorno de trabajo no se pueden descargar (el servidor del Distrito rechaza la descarga automática), así que el autor los baja desde su navegador y los guarda con el nombre indicado. Se prioriza de arriba hacia abajo.
+
+| Código | Guardar como | Documento | Enlace |
+| --- | --- | --- | --- |
+| F04 | `municipio/F04_mfmp-2026-2035.pdf` | Marco Fiscal de Mediano Plazo 2026 a 2035 | [cartagena.gov.co](https://www.cartagena.gov.co/sites/default/files/transparencia/documentos/2026-03/Marco%20Fiscal%20de%20Mediano%20Plazo%20%28MFMP%29%202026-2035.pdf) |
+| F04 | `municipio/F04_informe-gestion-hacienda-2025.pdf` | Informe de gestión de la Secretaría de Hacienda 2025, con recaudo a 31 de diciembre de 2025 | [cartagena.gov.co](https://cartagena.gov.co/sites/default/files/transparencia/documentos/2026-05/INFORME%20DE%20GESTI%C3%93N%20SECRETARIA%20DE%20HACIENDA%202025.pdf) |
+| F04 | `municipio/F04_proyecto-presupuesto-2025.pdf` | Proyecto de Acuerdo 042 de 2024, presupuesto 2025 | [Concejo](https://concejodistritaldecartagena.gov.co/wp-content/uploads/2024/10/P.A.-042-DE-2024-PRESUPUESTO-2025.pdf) |
+| F05 | `municipio/F05_estados-financieros-2024.pdf` | Estados financieros y notas a 31 de diciembre de 2024 | [cartagena.gov.co](https://cartagena.gov.co/sites/default/files/transparencia/documentos/2025-03/ESTADOS_FINANCIEROS_31_DIC_2024.pdf) |
+| F05 | `municipio/F05_estados-financieros-2023.pdf` | Estados financieros completos 2023 | [cartagena.gov.co](https://cartagena.gov.co/sites/default/files/transparencia/documentos/2024-02/ESTADOS%20FINANCIEROS%20COMPLETO%202023%20DISTRITO%20DE%20CARTAGENA_0.pdf) |
+| F06 | `municipio/F06_decreto-0810-2023-estatuto-tributario.pdf` | Decreto 0810 de 2023, compilación del estatuto tributario | [vuc.cartagena.gov.co](https://vuc.cartagena.gov.co/documentos/DECRETO_0810_DE_09_DE_JUNIO_DE_2023.pdf) |
+| F06 | `municipio/F06_pa-053-2024-reforma-estatuto.pdf` | Proyecto de Acuerdo 053 de 2024, reforma del estatuto tributario | [Concejo](https://concejodistritaldecartagena.gov.co/wp-content/uploads/2024/11/P.A.-053-DE-2024-MODIFICACION-ESTATUTO-TRIBUTARIO.pdf) |
+| F06 | `municipio/F06_pa-019-2024-valorizacion.pdf` | Ponencia de segundo debate del estatuto de valorización | [Concejo](https://concejodistritaldecartagena.gov.co/wp-content/uploads/2024/08/P.A.019-2024-PONENCIA-2o.-DEBATE.docxO_.K.pdf) |
+| F06 | `municipio/F06_resolucion-cierre-actualizacion-2022.pdf` | Resolución de cierre de la actualización catastral de 2022 | [cartagena.gov.co](https://www.cartagena.gov.co/sites/default/files/transparencia/documentos/2022-12/Resoluci%C3%B3n%20cierre%20actualizaci%C3%B3n%20Cartagena%20CTG%20005%20DE%202022_0.pdf) |
+| F06 | `municipio/F06_resolucion-entrega-catastro-amb.pdf` | Resolución de entrega del servicio catastral al AMB | [cartagena.gov.co](https://cartagena.gov.co/sites/default/files/transparencia/documentos/2025-01/RESOLUCION%20003%202024_ENTREGA_PRESTACION_SERVICIO_CATASTRAL_AMB.pdf) |
+| F01 | `municipio/F01_acuerdo-139-2024-plan-desarrollo.pdf` | Acuerdo 139 de 2024, Plan de Desarrollo "Cartagena, Ciudad de Derechos" | [corvivienda.gov.co](https://corvivienda.gov.co/repositorio/doc_transparencia/02_normativa/4-2/ACUERDO%20DISTRITAL%20PLAN%20DE%20DESARROLLO%202024-2027.pdf) |
+| F02 | `municipio/F02_seguimiento-pdd-marzo-2026.pdf` | Informe de seguimiento global del Plan de Desarrollo, corte marzo de 2026 | [cartagena.gov.co](https://cartagena.gov.co/sites/default/files/transparencia/documentos/2026-06/INFORME%20DE%20SEGUIMIENTO%20GLOBAL%20PDD%202024%20-2027_CORTE%20MARZO%202026.pdf) |
+| F03 | `municipio/F03_pot-2001-documento-resumen.pdf` | Documento resumen del POT vigente (Decreto 0977 de 2001) | [seguimientopot.cartagena.gov.co](https://seguimientopot.cartagena.gov.co/sites/default/files/2024-12/DOCUMENTO%20RESUMEN.pdf) |
+| F03 | `municipio/F03_pot-seguimiento-2024.pdf` | Informe de seguimiento del POT 2024 | [seguimientopot.cartagena.gov.co](https://seguimientopot.cartagena.gov.co/sites/default/files/2025-07/2024.pdf) |
+| F03 | `municipio/F03_revision-pot-diagnostico-vol1.pdf` | Diagnóstico de la revisión del POT, volumen 1 | [pot.cartagena.gov.co](https://pot.cartagena.gov.co/sites/default/files/2024-04/4.%20DIAGNOSTICO%20%28V.4%29%20VOL%201%20COMP.%20C.pdf) |
+| F12 | `regional/F12_ccv-calidad-de-vida-2025.pdf` | Informe de Calidad de Vida 2025, Cartagena Cómo Vamos | [cartagenacomovamos.org](https://cartagenacomovamos.org/wp-content/uploads/2026/07/ICV_Informe-Calidad-de-Vida_Cartagena_2025_CCV.pdf) |
+| F12 | `regional/F12_ccv-calidad-de-vida-2024.pdf` | Informe de Calidad de Vida 2024, Cartagena Cómo Vamos | [cartagenacomovamos.org](https://cartagenacomovamos.org/wp-content/uploads/2025/07/Informe-Calidad-de-Vida-2024-CartagenaComoVamos.pdf) |
+| F13 | `datos/F13_piscc-distrital-2024.pdf` | Estudio de lineamientos del PISCC distrital 2024 | [cartagena.gov.co](https://www.cartagena.gov.co/sites/default/files/transparencia/documentos/2025-05/PISCC_DISTRITAL%202024.pdf) |
+
+Siguen sin enlace directo: el texto del Acuerdo 107 de 2022, el Decreto 0977 de 2001 completo, el documento de formulación del nuevo POT (2026), las ejecuciones mensuales de ingresos, el SECOP (F07, que se exporta desde datos.gov.co) y los datos del DNP (F10).
+
 ## P1. Lo mínimo para el diagnóstico
 
 | Código | Documento | Carpeta | Dónde se consigue |

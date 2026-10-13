@@ -23,7 +23,7 @@ La regla que cierra todo: ningún compromiso duro se financia con una fuente bla
 
 ## Fuentes de ahorro y de recaudo por estudiar
 
-Mejor catastro y fiscalización del predial y del impuesto de industria y comercio, salida de gastos que ya no rinden, reducción de pasivos contingentes, y optimización de la planta sin tocar maestros ni médicos. Lo que se anote aquí se calcula con datos del propio Distrito y se marca como orden de magnitud hasta tener los datos fuertes.
+Mejor catastro y fiscalización del predial y del impuesto de industria y comercio, salida de gastos que ya no rinden, reducción de pasivos contingentes, y optimización de la planta sin tocar maestros ni médicos. Lo que se anote aquí se calcula con datos del propio Distrito y se marca como orden de magnitud hasta tener los datos fuertes. Las palancas del predial, la plusvalía y el suelo están en el frente [Hacienda, catastro y suelo](../frentes/hacienda-catastro-suelo.md); su recaudo se trata como ingreso blando hasta que se mida.
 
 ## El costo de los nodos
 
